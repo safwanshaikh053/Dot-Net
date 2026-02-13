@@ -1,0 +1,11 @@
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\bin\Debug\net9.0\DemoDay1.deps.json
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\bin\Debug\net9.0\DemoDay1.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\bin\Debug\net9.0\DemoDay1.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.AssemblyInfoInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.AssemblyInfo.cs
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.csproj.CoreCompileInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\refint\DemoDay1.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\DemoDay1.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1\obj\Debug\net9.0\ref\DemoDay1.dll

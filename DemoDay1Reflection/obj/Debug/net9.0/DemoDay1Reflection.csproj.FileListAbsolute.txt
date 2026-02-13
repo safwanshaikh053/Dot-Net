@@ -1,0 +1,14 @@
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\bin\Debug\net9.0\DemoDay1Reflection.exe
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\bin\Debug\net9.0\DemoDay1Reflection.deps.json
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\bin\Debug\net9.0\DemoDay1Reflection.runtimeconfig.json
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\bin\Debug\net9.0\DemoDay1Reflection.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\bin\Debug\net9.0\DemoDay1Reflection.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.AssemblyInfoInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.AssemblyInfo.cs
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.csproj.CoreCompileInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\refint\DemoDay1Reflection.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\DemoDay1Reflection.genruntimeconfig.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\DemoDay1Reflection\obj\Debug\net9.0\ref\DemoDay1Reflection.dll
