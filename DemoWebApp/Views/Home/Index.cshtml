@@ -1,0 +1,38 @@
+﻿
+
+@model List<DemoWebApp.Models.Emp>
+
+    <a href="/Home/Create">Create New  Record</a>
+    <hr/>
+ <h1>Emps Records</h1>
+
+<table border="1" width="200" height="100">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+                @foreach(var emp in Model)
+            {
+                <tr>
+                    <td>@emp.no</td>
+                    <td>@emp.name</td>
+                    <td>@emp.address</td>
+                    <td>
+                        <a href="/Home/Edit/@emp.no">Edit</a>
+                    </td>
+                    <td>
+                        <a href="/Home/Delete/@emp.no">Delete</a>
+                    </td>
+                </tr>
+            }
+        
+        </tbody>
+    </table>
+   
+
+

@@ -1,0 +1,13 @@
+﻿@model DemoWebApp.Models.Emp
+
+<h3>Create New Demo Record</h3>
+
+<form action="/Home/Create" method= "post">
+    <input type="hidden" name="no"/>
+    <br /> <br/>
+    <input type="Text" name="name" />
+    <br /> <br />
+    <input type="Text" name="address" />
+    <br /> <br />
+    <input type="submit" value="Add New Record" />
+</form>

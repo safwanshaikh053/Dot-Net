@@ -1,0 +1,15 @@
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\bin\Debug\net9.0\Employee.deps.json
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\bin\Debug\net9.0\Employee.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\bin\Debug\net9.0\Employee.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\refint\Employee.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\ref\Employee.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\bin\Debug\net9.0\MyCustomAttribute.dll
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\bin\Debug\net9.0\MyCustomAttribute.pdb
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.csproj.AssemblyReference.cache
+F:\CDAC\ASP.Net Mugdha Ma'am\Demo1\Employee\obj\Debug\net9.0\Employee.csproj.Up2Date

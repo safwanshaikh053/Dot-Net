@@ -1,0 +1,11 @@
+﻿@model DemoWebApp.Models.Emp
+<h3>Edit Demo Record</h3>
+<form action="/Home/Edit" method="post">
+    <input type="hidden" name="no" value="@Model.no" />
+    <br /> <br />
+    <input type="Text" name="name" value="@Model.name" />
+    <br /> <br />
+    <input type="Text" name="address" value="@Model.address" />
+    <br /> <br />
+    <input type="submit" value="Edit" />
+</form>
